@@ -344,7 +344,7 @@ const DistributeNfts = (props: Props) => {
 											Buy this Nft
 										</Button>
 									</li>
-								);
+								)
 							})
 						}
 						{}
